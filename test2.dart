@@ -28,7 +28,7 @@ void main(List<String> args) {
         continue;
       }
       else{
-        newLst.add(b[j]);
+        newLst.add(c[j]);
       }
     }
   }
